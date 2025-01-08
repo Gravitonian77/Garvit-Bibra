@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a software developer passionate about embedded systems, low-level programming, and networking. I love diving deep into system internals and building efficient, performant solutions.
+I'm Garvit, a software developer passionate about embedded systems, low-level programming, and networking. I love diving deep into system internals and building efficient, performant solutions.
 
 ## 🛠️ Technical Skills
 - **Languages:** C/C++, Java, Python
