@@ -30,7 +30,7 @@ I'm a software developer passionate about embedded systems, low-level programmin
 - Learning more about real-time operating systems
 
 ## 📫 Get in Touch
-[You can add your preferred contact methods here]
+garvitbibra@outlook.com
 
 ---
 *Feel free to explore my repositories and don't hesitate to reach out for collaboration or discussions about embedded systems and low-level programming!*
