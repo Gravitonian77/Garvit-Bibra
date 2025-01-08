@@ -5,7 +5,7 @@ I'm a software developer passionate about embedded systems, low-level programmin
 ## 🛠️ Technical Skills
 - **Languages:** C/C++, Java, Python
 - **Focus Areas:** Embedded Systems, Low-Level Programming, Networking
-- **Interests:** System Architecture, Performance Optimization, Hardware-Software Interface
+- **Interests:** System Architecture, Robotics, Hardware-Software Interface
 
 ## 🚀 Featured Projects
 
