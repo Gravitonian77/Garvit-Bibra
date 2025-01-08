@@ -25,9 +25,9 @@ I'm Garvit, a software developer passionate about embedded systems, low-level pr
 - Features fundamental networking protocols and hands-on system programming
 
 ## 🌱 Current Focus
-- Exploring advanced embedded systems concepts
-- Developing efficient networking solutions
-- Learning more about real-time operating systems
+- Deep diving into operating system concepts
+- Building existing tools from scratch, to learn their inner workings
+- Exploring the world of robotics, where software meets hardware
 
 ## 📫 Get in Touch
 garvitbibra@outlook.com
